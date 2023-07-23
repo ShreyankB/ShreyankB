@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **shreyankbuddhadev99@gmail.com**
 
-- 📄 Checkout my Resume [https://drive.google.com/file/d/1UdhYa06bH8eb0sOOKMXXkQQdC5xwN2pm/view?usp=sharing]
-
+- 📄 Checkout my Resume [https://drive.google.com/file/d/11VwEW2WmOcTWJeQrLruQe-jML95vfYHD/view?usp=sharing]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyankb&show_icons=true&locale=en&layout=compact" alt="shreyankb" /></p>
 
